@@ -12,6 +12,8 @@ namespace PTM___HelloGit___DRYAS
         {
             Console.WriteLine("HELLO WORD");
             Console.ReadKey();
+            Console.WriteLine("Close");
+            Console.ReadKey();
         }
     }
 }
